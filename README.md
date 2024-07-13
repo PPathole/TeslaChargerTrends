@@ -103,6 +103,8 @@ We created various charts to visualize the data:
 
 6. **Effect of Elevation on Stalls and kW**:
    - Examined how elevation affects the number of stalls and power output using line charts and bar charts.
+  
+![Supercharger Analysis](https://github.com/PPathole/TeslaChargerTrends/blob/main/Screenshot%202024-07-12%20at%2021.32.09.png)
 
 ## Getting Started
 
@@ -121,16 +123,3 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Adding an Image to `README.md`
-
-To add an image to your `README.md`, upload the image to your repository or use an external link. Here is an example of how to add an image:
-
-```markdown
-![Supercharger Analysis](path/to/your/image.png)
-```
-
-```markdown
-![Supercharger Analysis](images/supercharger_analysis.png)
-```

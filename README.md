@@ -81,6 +81,9 @@ We created various charts to visualize the data:
 
 - **Bar Chart for Total Stalls per Country**: Displayed the total number of stalls in each country.
 - **Line Chart for kW Trends**: Showed the average power output over time.
+
+![KWh Trend](https://github.com/PPathole/TeslaChargerTrends/blob/main/Screenshot%202024-07-12%20at%2021.32.36.png)
+
 - **Pie Chart for Distribution of Superchargers by Country**: Illustrated the proportion of Supercharger stations in each country.
 - **Heatmap for Stalls and kW**: Visualized the density of stalls and power output across different states and cities.
 

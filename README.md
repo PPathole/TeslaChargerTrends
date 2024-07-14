@@ -109,6 +109,8 @@ We created various charts to visualize the data:
   
 ![Supercharger Analysis](https://github.com/PPathole/TeslaChargerTrends/blob/main/Screenshot%202024-07-12%20at%2021.32.09.png)
 
+![Gaps](https://github.com/PPathole/TeslaChargerTrends/blob/main/Screenshot%202024-07-14%20at%2014.56.58.png)
+
 ## Getting Started
 
 To get started with the analysis:

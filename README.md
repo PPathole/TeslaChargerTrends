@@ -101,6 +101,8 @@ We created various charts to visualize the data:
 4. **Trends in Number of Superchargers Installed Over Time**:
    - Analyzed the growth trend of Superchargers installed over time with a line chart.
 
+  ![Maps](https://github.com/PPathole/TeslaChargerTrends/blob/main/Screenshot%202024-07-14%20at%2014.58.21.png)
+
 5. **Relationship Between Number of Stalls and kW Capacity**:
    - Created a scatter plot to explore the correlation between the number of stalls and power output.
 

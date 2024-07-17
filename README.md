@@ -19,7 +19,6 @@ This repository contains a comprehensive analysis of Tesla Supercharger data, fo
   - [Advanced Analysis Questions](#advanced-analysis-questions)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -121,12 +120,8 @@ To get started with the analysis:
    ```sh
    https://github.com/PPathole/TeslaChargerTrends
    ```
-2. Open the Excel workbook `Supercharger_Analysis.xlsx` to explore the analysis.
+2. Open the Excel workbook `tesla_superchargers.xlsx` to explore the analysis.
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

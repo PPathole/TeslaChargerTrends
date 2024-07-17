@@ -119,7 +119,7 @@ To get started with the analysis:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/PPathole/Solar-Energy-Production-Analysis.git
+   https://github.com/PPathole/TeslaChargerTrends
    ```
 2. Open the Excel workbook `Supercharger_Analysis.xlsx` to explore the analysis.
 
